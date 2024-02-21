@@ -22,6 +22,11 @@ body {
     max-width: 1200px;
     width: 100%;
     margin: 0 auto;
+    border-bottom: 4px solid var(--botao-ativo); 
+    border-left: 2px solid var(--botao-ativo); 
+    border-right: 2px solid var(--botao-ativo); 
+    border-top: none;
+
 }
 .botoes {
     display: block;
